@@ -1,2 +1,2 @@
 """ Hello World Python script """
-print('Hello World..!!')
+print('Hello World')
